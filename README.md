@@ -8,7 +8,7 @@ A modern, minimal sticky notes board built with React JS that lets you create, d
 
 ```bash
 # Clone repository
-git clone https://github.com/uzairansari11/stickynotes_drag_and_drop.git
+git clone https://github.com/ShubhamSinghRawat007/Sticky-Notes-Web-App.git
 
 # Install dependencies
 npm install
