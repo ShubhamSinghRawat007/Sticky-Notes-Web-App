@@ -34,6 +34,9 @@ npm start
 
 [Click here to watch the demo video on Google Drive](https://drive.google.com/file/d/1qyAhF-XSPKfuAkTKNMJgN_zvYVgP11MI/view?usp=sharing)
 
+## Live Url
+Check out the live demo [here](https://sticky-notes-web-app.vercel.app).
+
 
 
 ## Tech Stack
